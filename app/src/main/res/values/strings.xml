@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReelsOff</string>
+    <string name="service_description">Masque les Reels Instagram, les Shorts YouTube et le Spotlight Snapchat selon tes réglages. Aucune donnée n\'est envoyée.</string>
+</resources>

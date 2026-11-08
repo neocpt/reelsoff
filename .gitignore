@@ -1,0 +1,16 @@
+# Fichiers générés
+build/
+app/build/
+.gradle/
+.idea/
+*.iml
+*.apk
+*.aab
+
+# Propre à ta machine
+local.properties
+
+# Clés de signature : ne jamais les publier
+*.jks
+*.keystore
+keystore.properties
